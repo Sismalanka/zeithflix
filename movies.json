@@ -1,0 +1,20 @@
+[
+   {
+      "title":"Oshi Noko 1. Bolum",
+      "description":"Oshi Noko 1. Bolum",
+      "videoUrl":"https://m12.vudeo.co/2vp3y6hw7evjdohiloorvieysl3mf4t4bnpmzurm2b4mhxt756vikmiehfya/v.mp4",
+      "thumbnailUrl":"https://www.turkanime.co/imajlar/serilerb/5845.jpg",
+      "genre":"Anime",
+      "duration":"20 minutes"
+   },
+   {
+      "title":"Nowhere",
+      "description":"test",
+      "videoUrl":"https://yabancidizi.pro/api/ruplay/_Ub793NtbvjjfejOw-GNYWgbGE-1",
+      "thumbnailUrl":"https://www.turkanime.co/imajlar/serilerb/1166.jpg",
+      "genre":"Hentai",
+      "duration":"20 minutes"
+   }, //add more objects like this 
+   {
+   }
+]
